@@ -1,2 +1,2 @@
-println("hello world")
+print("hello world"):
 print("Amar Janthe Git Learning"):
